@@ -1,0 +1,6 @@
+title: "What Types of Recipes Are Healthier?"
+description: "A data science investigation into protein and carbohydrate content across Food.com recipe categories."
+author: "Chau Nguyen"
+theme: minima
+plugins:
+  - jekyll-seo-tag
